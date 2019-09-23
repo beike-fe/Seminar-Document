@@ -1,2 +1,4 @@
-# Seminar-Document
-Summarize the documentation for each seminar 
+# 贝壳前端分享会文档整理
+
+* 第一次分享 1st
+  * [注意事项](./1st/注意事项.md)
