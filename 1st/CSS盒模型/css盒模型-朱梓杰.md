@@ -1,17 +1,22 @@
-#css盒模型
+# css盒模型
+
+> Author: 朱梓杰   
+> Description: 介绍 css 盒模型   
+> Last Modified: 2019.09.29
+
 ---
-###一：简述
+### 一：简述
 ![模型图](https://www.runoob.com/images/box-model.gif)
 >这些属性我们可以把它转移到我们日常生活中的盒子（箱子）上来理解。内容就是盒子里装的东西；而内边距就是物体和盒子内壁的距离；边框就是盒子本身；外边距则表实盒子和别的物体的距离
 
-###二：两种盒模型
+### 二：两种盒模型
 >W3C盒模型  box-sizing:content-box
 >
 >IE盒模型   box-sizing:border-box
 >
 >![两种盒模型](https://img-blog.csdn.net/20150629102231720)
 
-###三：四种属性
+### 三：四种属性
 
 ```
 div {
@@ -22,14 +27,14 @@ div {
 }
 ```
 
-1.margin（上右下左原则）
+1. margin（上右下左原则）
 
 + 简写属性
 
 + 单独设置
 
 
-2.border
+2. border
 
 + width：简写+单独（border-top-width）
 
@@ -42,7 +47,7 @@ div {
 4.content(width,height)
 >当你指定一个css元素的宽度和高度时，你只是设置内容区域的宽度和高度
 
-###四：一些相关知识点
+### 四：一些相关知识点
 
 1.外边距合并
 
