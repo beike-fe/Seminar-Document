@@ -52,3 +52,4 @@ beike -a
 mkdir test
 beike init test
 ```
+选择 Vue 的其中一个模板进行创建，然后根据创建完成的指示去运行
