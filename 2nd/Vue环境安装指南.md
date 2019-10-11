@@ -45,3 +45,10 @@ npm config set cache "D:\Develop\nodejs\node_cache"
 npm install bk-create-react -g
 beike -a
 ```
+
+# 2. 新建 Vue 工程
+首先创建一个存放项目的目录，创建完成后用 WebStorm 打开这个文件夹，按【Alt + F12】调出控制台，执行
+```
+mkdir test
+beike init test
+```
