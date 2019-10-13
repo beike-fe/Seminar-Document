@@ -1,3 +1,8 @@
+# Vue 环境安装指南
+> Author: TanYJie  
+> Description: Node.js 环境安装和 Vue 项目初始化   
+> Last Modified: 2019.10.11
+
 # 1. 安装 Node.js 环境
 官网下载 Node.js 稳定版安装包（https://nodejs.org/en/）
 
